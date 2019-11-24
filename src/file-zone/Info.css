@@ -1,0 +1,8 @@
+.synonyms > span {
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+.synonyms > span:hover {
+    color: orange;
+}
